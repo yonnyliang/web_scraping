@@ -92,5 +92,5 @@ Finally we get a csv file to use for Data Analysis
 ## Note
 
 The code and csv file are in this repository  
-- **pokedex_scraper.py**  
-- **complete_pokedex_file.csv**
+- [**Python File**](/pokedex_scraper.py)  
+- [**CSV File**](/complete_pokedex_file.csv)
